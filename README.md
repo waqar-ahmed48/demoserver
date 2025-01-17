@@ -20,7 +20,7 @@
     IaC Service which allows developers to showcase their cloud projects effectively utilizing free tier accounts.
     <br />
     <br />
-    <a href="https://waqar-ahmed48.github.io/waqar-ahmed48/projects">View Demo</a>
+    <a href="https://waqar-ahmed48.github.io/waqar-ahmed48">View Demo</a>
     <br />
     <a href="https://obviously-popular-barnacle.ngrok-free.app/demoserver/web-ui/">Get a free account</a>
   </p>
